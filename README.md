@@ -18,7 +18,7 @@ Custom Java collection implementations modeled after Google Guava's collection l
 |-------|---------|--------|
 | 1 — Immutable Collections | `ImmutableCollection<E>` | ✅ Done |
 | 2 — BiMaps and MultiSets | `BiMap<K,V>`, `Multiset<E>` | ✅ Done |
-| 3 — Size Limited Queues | `SizeLimitedQueue<E>` | ⬜ Pending |
+| 3 — Size Limited Queues | `SizeLimitedQueue<E>` | ✅ Done |
 | 4 — Ranges | `Range<C extends Comparable<C>>` | ✅ Done |
 
 ## Layout
